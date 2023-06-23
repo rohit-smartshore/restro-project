@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "email": "rohit@test.com",
+      "password": "123",
+      "name": "rohit",
+      "id": 3
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "fsdfds",
+      "contact": "fdsf",
+      "address": "fds",
+      "id": 1
+    }
+  ]
+}
